@@ -33,9 +33,6 @@
 
 ### 🗄️ Databases
 - SQL Fundamentals
-- Relational Database Concepts
-- SQLite / Firebase
-- Data Modeling & Relations
 
 ### ⚙️ Engineering Background
 - Digital Logic Design

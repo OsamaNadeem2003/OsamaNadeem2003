@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" />
 
-<h2>Hi, I'm Osama Duraidy 👋</h2>
+<h2>Hello World👋</h2>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" />
 
 <h1>أسامة دريدي | Osama Duraidy</h1>
 <h3>Front-End Developer • Software Engineering Graduate</h3>
@@ -57,15 +57,13 @@
 
 ---
 
-## 💻 Engineering Mindset
+```js
+// Engineering mindset in code
 
-```javascript
 const osama = {
   name: "Osama Duraidy | أسامة دريدي",
   role: "Front-End Developer",
   education: "Software Engineering Graduate",
-  location: "Palestine",
-
   strengths: [
     "React & MUI",
     "UI/UX Design",
@@ -73,18 +71,5 @@ const osama = {
     "Databases",
     "Logic Circuits"
   ],
-
   mindset: "Build clean, logical, and maintainable systems"
 };
-```
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/OsamaNadeem2003
-- LinkedIn: Add your LinkedIn here
-
----
-
-⭐ Always learning, building, and improving.
